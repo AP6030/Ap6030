@@ -44,13 +44,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![AP6030's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AP6030&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AP6030&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AP6030&layout=compact&theme=radical&hide_border=true)
-  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AP6030&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AP6030&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=AP6030&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 Featured Projects
@@ -92,9 +91,7 @@ Personal portfolio website built with TypeScript
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=AP6030&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=AP6030&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 💻 This Week I Spent My Time On
